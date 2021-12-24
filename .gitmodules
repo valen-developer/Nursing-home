@@ -1,0 +1,6 @@
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:valen-developer/nursing-home-webapp.git
+[submodule "back"]
+	path = back
+	url = git@github.com:valen-developer/Nursing-Home-Back.git
